@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/menelai/snack-bar/compare/v1.0.2...v1.0.3) (2023-03-10)
+
+
+### Bug Fixes
+
+* provide in root ([ffa4866](https://github.com/menelai/snack-bar/commit/ffa4866c40959d6e0ab3ffa3421c088c0b4c5256))
+
 ## [1.0.2](https://github.com/menelai/snack-bar/compare/v1.0.1...v1.0.2) (2023-03-10)
 
 
