@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/menelai/snack-bar/compare/v1.0.0...v1.0.1) (2023-03-10)
+
+
+### Bug Fixes
+
+* semantic release version ([0eb8a2c](https://github.com/menelai/snack-bar/commit/0eb8a2c491de0354400b7ae0ad7e541fbc756692))
+
 # 1.0.0 (2023-03-10)
 
 
