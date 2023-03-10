@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/menelai/snack-bar/compare/v1.0.1...v1.0.2) (2023-03-10)
+
+
+### Bug Fixes
+
+* public ([d443eb2](https://github.com/menelai/snack-bar/commit/d443eb2f80ee42b33dd0b0a3567edef3042cd665))
+
 ## [1.0.1](https://github.com/menelai/snack-bar/compare/v1.0.0...v1.0.1) (2023-03-10)
 
 
