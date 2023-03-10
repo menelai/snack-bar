@@ -58,7 +58,7 @@
     "karma-chrome-launcher": "~3.1.1",
     "karma-coverage": "~2.1.0",
     "karma-jasmine": "~5.1.0",
-    "karma-jasmine-html-reporter": "~1.7.0",
+    "karma-jasmine-html-reporter": "~2.0.0",
     "ng-packagr": "^14.0.2",
     "rimraf": "^4.4.0",
     "semantic-release": "^20.1.1",
