@@ -1,7 +1,9 @@
 import {Injectable} from '@angular/core';
 import {MatSnackBar, MatSnackBarConfig, MatSnackBarRef} from '@angular/material/snack-bar';
 
-@Injectable()
+@Injectable({
+  providedIn: 'root',
+})
 export class SnackBarService {
 
   defaultAction?: string;
